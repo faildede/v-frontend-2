@@ -34,7 +34,7 @@
     </div> 
         </div>  
       </div>  
-        <button class=" block mx-auto bac text-white p-5 font-semibold text-xl" @click="limit+=10">Show more</button>  
+        <button class="block mx-auto bac text-white p-5 font-semibold text-xl mb-4" @click="limit+=10">Show more</button>  
     </div>  
 </template>
 <script> 
